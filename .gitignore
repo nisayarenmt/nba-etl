@@ -1,0 +1,14 @@
+# Sanal ortam
+env/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editör / sistem
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
